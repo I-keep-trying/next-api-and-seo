@@ -44,7 +44,7 @@
   }
   
   .country {
-    border: 1px solid #000;
+    border: 2px solid rgb(20, 0, 134);
     border-radius: 0.25rem;
     padding: 0.25rem 0.5rem;
   }

@@ -31,8 +31,8 @@ export default function Start({ countries }) {
           <Image
             src="/large-image.jpg"
             alt="Large Image"
-            width={3048}
-            height={2024}
+            width={304}
+            height={202}
           />
         </div>
         <div>
