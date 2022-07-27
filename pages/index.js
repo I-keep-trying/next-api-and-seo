@@ -17,6 +17,10 @@ export default function Start({ countries }) {
       <Head>
         <title>Core Web Vitals</title>
         <meta name="description" content="Core web vitals walk through" />
+        <meta
+          name="google-site-verification"
+          content="d0JzYkb2uzRi7vfSBaSRu1Pm8psgy4rKxDavPi7fkdk"
+        />
         <link rel="icon" href="/favicon.ico" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter"
