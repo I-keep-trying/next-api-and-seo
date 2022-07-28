@@ -3,12 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/server": "pages/server.js",
-  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
-  "/client": "pages/client.js",
-  "/protected": "pages/protected.js",
-  "/api-example": "pages/api-example.js",
-  "/api/examples/protected": "pages/api/examples/protected.js",
-  "/api/examples/session": "pages/api/examples/session.js",
-  "/api/examples/jwt": "pages/api/examples/jwt.js"
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js"
 }
