@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "next": "12.2.3",
+    "next-auth": "^4.10.2",
     "next-connect": "^0.13.0",
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0",
