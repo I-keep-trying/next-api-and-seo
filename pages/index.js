@@ -60,3 +60,4 @@ export default function Home() {
     </div>
   )
 }
+//redirect_uri: https://next-api-and-dv6revf2n-i-keep-trying.vercel.app/api/auth/callback/google
